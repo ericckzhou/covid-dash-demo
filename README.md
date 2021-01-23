@@ -1,2 +1,2 @@
 # Covid-Dash
-Made using Unity.
+Made using Unity and C#
